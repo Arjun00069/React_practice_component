@@ -1,0 +1,9 @@
+.opt_logger{
+    margin-top: 40px;
+    background-color: azure;
+}
+.opt_logger>input{
+    width: 40px;
+    height: 40px;
+    margin: 2em;
+}
